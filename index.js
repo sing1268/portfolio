@@ -26,9 +26,9 @@ const footer = `<nav class="navbar navbar-light bg-light">
 <span class="navbar-text" style="text-align:center; margin:0 auto;display:block;">
    <div style="text-align:center; margin:0 auto;display:block;">
 <div class="list-group list-group-horizontal">
-    <a target="_blank" href="https://facebook.com" class="list-group-item list-group-item-action"><img src="img/icon/facebook.svg"></a>
-    <a target="_blank" href="https://twitter.com" class="list-group-item list-group-item-action"><img src="img/icon/twitter.svg"></a>
-    <a target="_blank" href="https://instagram.com" class="list-group-item list-group-item-action"><img src="img/icon/instagram.svg"></a>
+    <a target="_blank" href="https://facebook.com" class="list-group-item list-group-item-action"><img src="facebook.svg"></a>
+    <a target="_blank" href="https://twitter.com" class="list-group-item list-group-item-action"><img src="twitter.svg"></a>
+    <a target="_blank" href="https://instagram.com" class="list-group-item list-group-item-action"><img src="instagram.svg"></a>
 </div>
 </div> &copy; Copyright Harman ~ 2020
   </span>
@@ -38,7 +38,7 @@ const footer = `<nav class="navbar navbar-light bg-light">
 const action = `
 
 <form class="form align-content-center d-flex flex-column">
-<img src="./img/media/mail.svg" style="width: 20%;display: block;margin: 0 auto;" class="card-img-top" alt="...">
+<img src="mail.svg" style="width: 20%;display: block;margin: 0 auto;" class="card-img-top" alt="...">
 <h1 class="lead ml-5 mb-2">want to <mark>Hire</mark> me</h1>  
 <label class="sr-only" for="inlineFormInputGroupUsername2">Email</label>
   <div class="input-group mb-2 mr-sm-2">
